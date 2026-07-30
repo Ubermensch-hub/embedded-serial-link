@@ -1,3 +1,9 @@
+# IDE
+.idea/
+
+# Fetched at configure time by third_party/CMakeLists.txt (FetchContent)
+third_party/doctest/
+
 # Prerequisites
 *.d
 
